@@ -80,4 +80,32 @@ Jika pengguna tidak mengisi form, maka sebagai berikut
 
 <img width="1304" height="1055" alt="Screenshot 2026-02-27 174856" src="https://github.com/user-attachments/assets/6cbee9fa-72df-4ceb-a2b5-7a17ee308e13" />
 
-Ketika sudah mengisi form, akan otomatis 
+Ketika sudah mengisi form, akan otomatis masuk ke daftar pesanan titipan pada dashboard.
+
+### Update 
+
+<img width="1299" height="947" alt="Screenshot 2026-02-27 174908" src="https://github.com/user-attachments/assets/c2072223-599c-4226-b901-d6a168f05301" />
+
+Jika pengguna ingin mengupdate, akan ada form untuk mengupdate seperti nama barang, lokasi, nama pemesanan dan harga.
+
+Sebelum diupdate
+<img width="1299" height="947" alt="Screenshot 2026-02-27 174908" src="https://github.com/user-attachments/assets/1fc7dfb1-8e9e-4eba-894b-919215ce97b9" />
+
+Setelah diupdate
+<img width="1311" height="951" alt="Screenshot 2026-02-27 175027" src="https://github.com/user-attachments/assets/01770894-cbc6-4859-9595-31c941c01aa0" />
+
+Jika diliat gambar di atas, pengguna mengupdate nama barang dan harga.
+
+### Hapus 
+
+<img width="1300" height="949" alt="Screenshot 2026-02-27 175042" src="https://github.com/user-attachments/assets/c5d896da-bab8-4288-af4e-0e99234f7828" />
+
+jika pengguna ingin menghapus, tinggal mengklik tombol dengan icon sampah dan otomatis akan hapus dari daftar pesanan titipan
+
+Sebelum dihapus,
+<img width="1311" height="943" alt="Screenshot 2026-02-27 175055" src="https://github.com/user-attachments/assets/935985c5-df62-485c-8207-cbbe00e5c501" />
+
+Setelah dihapus.
+<img width="1303" height="942" alt="Screenshot 2026-02-27 175111" src="https://github.com/user-attachments/assets/a9e91e66-18cc-4db5-a8cd-f8e3a6fcbe23" />
+
+
