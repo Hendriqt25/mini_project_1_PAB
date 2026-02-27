@@ -1,1 +1,3 @@
-# mini_project_1_PAB
+# Jasa Titip APP
+
+## Deskripsi Aplikasi
