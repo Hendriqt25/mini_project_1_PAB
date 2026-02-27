@@ -22,15 +22,15 @@ lib/t
 ## Fitur Aplikasi
 
 1. Create 
-   Pengguna dapat menambahkan pesananan titipan dengan mengisi form input.
+   Pengguna dapat menambahkan pesananan titipan dengan mengisi form input seperti nama barang, lokasi, nama pemesan dan harga.
 
 2. Read 
    Aplikasi menampilkan daftar pemesanan titipan yang telah dimasukkan.
 
-3. Update (Edit Data)
-   Pengguna dapat mengubah data pemesanan titipan seperti nama barang, lokasi, nama pemesan.
+3. Update 
+   Pengguna dapat mengubah data pemesanan titipan seperti nama barang, lokasi, nama pemesan dan harga
 
-4. Delete (Hapus Data)
+4. Delete 
    Pengguna dapat menghapus data pemesanan titipan.
 
 5. Multi Page Navigation
@@ -107,5 +107,6 @@ Sebelum dihapus,
 
 Setelah dihapus.
 <img width="1303" height="942" alt="Screenshot 2026-02-27 175111" src="https://github.com/user-attachments/assets/a9e91e66-18cc-4db5-a8cd-f8e3a6fcbe23" />
+
 
 
